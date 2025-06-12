@@ -2,9 +2,8 @@
 <h3 align="center">Love making new fun project and learning along the way!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emberdragons&label=Profile%20views&color=0e75b6&style=flat" alt="emberdragons" /> </p>
-## Stats
 
-![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean1000levrai&show_icons=true&theme=default)
+![EmberDragons' GitHub stats](https://github-readme-stats.vercel.app/api?username=EmberDragons&show_icons=true&theme=default)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emberdragons" alt="emberdragons" /></a> </p>
 
 - 🔭 I’m currently working on [Web Life](https://github.com/EmberDragons/web_life_client)
